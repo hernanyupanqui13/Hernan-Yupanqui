@@ -15,4 +15,12 @@ if(x+y == 5 and 5<6):
   print("si funciona")
 
 
+##comentarios para que nadie se confuna
+
+
+
+
+
+
+
 
